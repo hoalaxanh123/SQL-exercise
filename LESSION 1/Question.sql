@@ -1,0 +1,34 @@
+﻿-- Liệt kê danh sách khách hàng ở Đà Nẵng 
+-- Liệt kê những tài khoản loại VIP (type = 1) 
+-- Liệt kê những khách hàng không sử dụng số điện thoại của Mobi phone 
+-- Liệt kê những khách hàng họ Phan
+-- Liệt kê những khách hàng tên chứa chữ g 
+-- Liệt kê những khách hàng chữ cái thứ 2 là chữ H, T, A, Ê 
+-- Liệt kê những giao dịch diễn ra trong quý IV năm 2016 
+-- Liệt kê những giao dịch bất thường (tiền trong tài khoản âm) 
+-- Có bao nhiêu người có tài khoản bất thường 
+-- Thống kê số lượng giao dịch, số tiền giao dịch theo loại giao dịch 
+-- Có bao nhiêu khách hàng có địa chỉ ở Huế
+-- Số tiền trong các tài khoản nhiều nhất là bao nhiêu 
+-- Ngày giao dịch gần đây nhất là ngày bao nhiêu
+-- Có bao nhiêu khách hàng họ Trần và tên Dũng
+-- Trong năm 2016 và 2017 tổng lượng tiền gửi vào ngân hàng là bao nhiêu 
+-- Trong năm 2016 và 2017 tổng lượng tiền gửi từng năm vào ngân hàng là bao nhiêu 
+--  Thống kê số lượng tài khoản, số tiền trung bình trong tài khoản theo từng loại 
+-- Có bao nhiêu khách họ Hồ sử dụng dịch vụ di động của Viettel 
+-- Ngân hàng Vietcombank có tổng cộng bao nhiêu chi nhánh 
+-- Có bao nhiêu khách hàng không ở Quảng Nam 
+-- Có bao nhiêu tài khoản nhiều hơn 300 triệu, tổng tiền trong số các tài khoản đó là bao nhiêu? 
+-- Số tiền trung bình của mỗi lần thực hiện giao dịch rút tiền trong năm 2017 là bao nhiêu 
+-- Số tiền rút tiền trung bình vào mùa thu đông năm 2013 của các chi nhánh là bao nhiêu? (thu đông: quý III, IV) 
+-- Tháng 08/2015, có bao nhiêu giao dịch rút tiền diễn ra vào buổi tối và đêm (từ 18h ngày hôm trước tới 05h sang ngày hôm sau) 
+-- Hiển thị những giao dịch bất thường trong quý I năm 2012. Giao dịch bất thường: giao dịch rút nộp tiền diễn ra ngoài giờ hành chính. 
+-- Ông Phạm Duy Khánh có khiếu nại tài khoản của ông ta bị trừ một khoản tiền vô lý (gần 50 triệu) trong tháng 12/2014.
+-- Anh/chị hãy truy xuất toàn bộ dữ liệu giao dịch diễn ra trong khoảng thời gian này để giải quyết khiếu nại của ông Khánh.  
+-- Tìm người có cùng chi nhánh với ông Phạm Duy Khánh
+-- VCB Đà Nẵng có bao nhiêu khách hàng, tổng tiền trung bình giao dịch trong 1 năm
+-- Trong tháng 4 năm 2014, VCM chi nhánh Huế xử lý bao nhiêu giao dịch rút tiền
+-- VCB Hà Nội đang quản lý bao nhiêu tài khoản, tổng số tiền trong tài khoản = bn?
+-- Ông PDK thuộc chi nhánh ngân hàng nào, có bao nhiêu tài khoản trong ngân hàng, giao dịch gần đây nhất thực hiện vào time nào
+-- Ai là người có tiền nhiều nhất trong VCB hiện nay
+-- Tìm người gửi tiền nhiều nhất vào VCB trong tháng 12 năm 2012
